@@ -6,4 +6,6 @@ Currently practicing:
 - Apollo, Prisma
 - PostgreSQL
 
+Plus, check out [Matcha Index](https://github.com/clarayin129/matcha-index), my most recent project. 🍵
+
 Thanks for reading :)
