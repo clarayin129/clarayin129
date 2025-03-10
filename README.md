@@ -3,7 +3,7 @@ I'm a first year computer science student at UC Davis working on full stack proj
 
 Currently practicing:
 - React.js/Next.js
-- Apollo, Prisma
+- Prisma, GraphQL
 - PostgreSQL
 
 Plus, check out [Matcha Index](https://github.com/clarayin129/matcha-index), my most recent project. 🍵
