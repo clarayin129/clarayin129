@@ -1,8 +1,18 @@
-## hi, i'm clara!
-I'm a second year computer science student at UC Davis working on full stack projects. Many things in progress!
+## Hello, I'm Clara!  🍵
+I'm a full stack developer studying CS @ UC Davis. I'm interested in applied AI and performance optimization.
 
-Currently practicing:
-- React.js/Next.js, GraphQL
-- ML/FastAPI backend services
+⭐ Current SWE Intern @ [Cisco](https://www.cisco.com/), at [UC Davis Facilities](https://facilities.ucdavis.edu/) during the school year and previously @ [Berkeley Lab](https://www.lbl.gov/)
 
-Thanks for reading :)
+I frequently use...
+- Languages: Python, Typescript
+- Frameworks/Libraries: React, Svelte, Hono, FastAPI
+- AI: FastMCP, LangChain
+
+Some Davis highlights...
+- I've been Director of Engineering for [AggieWorks](https://aggieworks.org/), a product development organization building software for students.
+- I'm an Operations Lead for [CodeLab](https://codelabdavis.com/), a software agency working with clients such as Google and Reddit.
+- I won Best Use of MongoDB at HackDavis 2025; see the project [here](https://devpost.com/software/discreat).
+
+💌 Contact me: [clarayin129@gmail.com](mailto:clarayin129@gmail.com)
+
+Thanks for reading!
