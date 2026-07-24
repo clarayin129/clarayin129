@@ -1,7 +1,10 @@
 ## Hello, I'm Clara!  🍵
 I'm a full stack developer studying CS @ UC Davis. I'm interested in applied AI and performance optimization.
 
-⭐ Current SWE Intern @ [Cisco](https://www.cisco.com/), at [UC Davis Facilities](https://facilities.ucdavis.edu/) during the school year and previously @ [Berkeley Lab](https://www.lbl.gov/)
+⭐ Current SWE Intern @ [Cisco](https://www.cisco.com/), incoming @ [Choji.ai](https://choji.ai/) (Fall 2026)
+
+🌱 Previously @ [Berkeley Lab](https://www.lbl.gov/) and [UC Davis Facilities](https://facilities.ucdavis.edu/)
+
 
 I frequently use...
 - Languages: Python, Typescript
