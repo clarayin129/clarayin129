@@ -1,7 +1,7 @@
 ## Hello, I'm Clara!  🍵
 I'm a full stack developer studying CS @ UC Davis. I'm interested in applied AI and performance optimization.
 
-⭐ Current SWE Intern @ [Choji.ai](https://choji.ai/), building an agent orchestration platform turning customer asks into merged PRs.
+⭐ Current SWE Intern @ [Go.AI](https://go.ai/)
 
 🌱 Previously @ [Cisco](https://www.cisco.com/), [Berkeley Lab](https://www.lbl.gov/) and [UC Davis Facilities](https://facilities.ucdavis.edu/)
 
